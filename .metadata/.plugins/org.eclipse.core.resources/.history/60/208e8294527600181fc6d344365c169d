@@ -1,0 +1,13 @@
+
+public enum Gender { // Enum use for define variables with countable number
+	Male(10 ,,15,29 "hello i'm styding java" )
+	,Female(21, "hello i'm waiting for new make up") ;
+	
+	int age ;
+	String message ;
+	
+	private Gender(int age , String mes) {
+		this.age = age ;
+		this.message = mes ;
+	}
+}

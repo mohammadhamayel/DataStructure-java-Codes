@@ -1,0 +1,4 @@
+
+public enum Gender { // Enum use for define variables 
+	Male,Female ;
+}
